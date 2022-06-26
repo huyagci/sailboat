@@ -2,7 +2,8 @@
 .vagrant/
 **containerd/
 
-
+# Images
+*.png
 
 # Visual Studio Code
 .vscode/
