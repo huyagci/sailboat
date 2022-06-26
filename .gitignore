@@ -1,5 +1,6 @@
 # Aux Files
 .vagrant/
+res/
 **containerd/
 
 # Visual Studio Code
