@@ -32,6 +32,7 @@
    - [Parameters](#parameters)
 5. [Technologies](#computer-technologies)
 6. [Directories](#open_file_folder-directories)
+7. [Submitted Assignment](#floppydisk-submitted-assignment)
 
 ### :notebook_with_decorative_cover: **Overview**
 
@@ -49,7 +50,7 @@ This repository contains an assignment project developed under the [Patika.dev][
 
 &nbsp;
 
-<p align="center"><img src="./res/img/sailboat.png" alt="Sailboat"></a></p>
+<p align="center"><img src="./res/img/sailboat.png" alt="Sailboat Branding Image"></a></p>
 
 #### _Sailboat_
 
@@ -118,6 +119,10 @@ Configurations      : /opt/scripts/configs
 Sample Project      : /opt/projects/python
 ```
 
+### :floppy_disk: **Submitted Assignment**
+
+_You may check out the submitted version of this project [here][@og-repo]._
+
 <!-- View Counter -->
 <p align="right"><img src="https://komarev.com/ghpvc/?username=week-3-assignment-huyagci&style=flat&label=Views&color=blue" alt="View Counter"></a></p>
 
@@ -145,3 +150,7 @@ Sample Project      : /opt/projects/python
 [@virtualbox]: https://www.virtualbox.org/
 [@vagrant]: https://www.vagrantup.com/
 [@vagrant-download]: https://www.vagrantup.com/downloads/
+
+<!-- Original Assignment -->
+
+[@og-repo]: https://github.com/Protein-DevOps-Engineer-Bootcamp/3-hafta-odev-1-docker-huyagci
