@@ -19,7 +19,7 @@
 > - Limit machine resources like CPU and memory if relevant arguments are given. _(Default is limitless)_
 > - Deploy additional services like MySQL or Mongo Database with Docker Compose.
 
-### **Table of Contents**
+### :open_book: **Table of Contents**
 
 1. [Overview](#notebook_with_decorative_cover-overview)
 2. [Features](#sparkles-features)
@@ -32,7 +32,7 @@
    - [Parameters](#parameters)
 5. [Technologies](#computer-technologies)
 6. [Directories](#open_file_folder-directories)
-7. [Submitted Assignment](#floppydisk-submitted-assignment)
+7. [Submitted Assignment](#floppy_disk-submitted-assignment)
 
 ### :notebook_with_decorative_cover: **Overview**
 
