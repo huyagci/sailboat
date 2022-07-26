@@ -38,6 +38,10 @@
 
 This repository contains an assignment project developed under the [Patika.dev][@patika] & [Protein][@protein] DevOps Engineer Bootcamp. `Bootstrapper` is an initializer script that sets up the machine as instructed. `Sailboat` is the main script that is coded by the terms of the project.
 
+&nbsp;
+
+<p align="center"><img src="./res/img/sailboat.png" alt="Sailboat Branding Image"></a></p>
+
 ### :sparkles: **Features** [🔝](#open_book-table-of-contents)
 
 #### _Bootstrapper_
@@ -47,10 +51,6 @@ This repository contains an assignment project developed under the [Patika.dev][
 > - Downloads, installs, and configures Docker Engine and Docker Compose.
 > - Sets the permissions of the script files.
 > - Defines a system-wide alias of the main script for easy use.
-
-&nbsp;
-
-<p align="center"><img src="./res/img/sailboat.png" alt="Sailboat Branding Image"></a></p>
 
 #### _Sailboat_
 
