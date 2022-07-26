@@ -21,24 +21,24 @@
 
 ### :open_book: **Table of Contents**
 
-1. [Overview](#notebook_with_decorative_cover-overview)
-2. [Features](#sparkles-features)
+1. [Overview](#notebook_with_decorative_cover-overview-)
+2. [Features](#sparkles-features-)
    - [Bootstrapper](#bootstrapper)
    - [Sailboat](#sailboat)
-3. [Installation](#gear-installation)
+3. [Installation](#gear-installation-)
    - [Automated](#automated)
    - [Manual](#manual)
-4. [Usage](#wrench-usage)
+4. [Usage](#wrench-usage-)
    - [Parameters](#parameters)
-5. [Technologies](#computer-technologies)
-6. [Directories](#open_file_folder-directories)
-7. [Submitted Assignment](#floppy_disk-submitted-assignment)
+5. [Technologies](#computer-technologies-)
+6. [Directories](#open_file_folder-directories-)
+7. [Submitted Assignment](#floppy_disk-submitted-assignment-)
 
-### :notebook_with_decorative_cover: **Overview**
+### :notebook_with_decorative_cover: **Overview** [🔝](#open_book-table-of-contents)
 
 This repository contains an assignment project developed under the [Patika.dev][@patika] & [Protein][@protein] DevOps Engineer Bootcamp. `Bootstrapper` is an initializer script that sets up the machine as instructed. `Sailboat` is the main script that is coded by the terms of the project.
 
-### :sparkles: **Features**
+### :sparkles: **Features** [🔝](#open_book-table-of-contents)
 
 #### _Bootstrapper_
 
@@ -62,7 +62,7 @@ This repository contains an assignment project developed under the [Patika.dev][
 > - Template mode will assist the user with predefined database services in addition to the main image.
 > - Docker-compose is used in template mode with pre-defined database services are MySQL and MongoDB.
 
-### :gear: **Installation**
+### :gear: **Installation** [🔝](#open_book-table-of-contents)
 
 ##### _Automated_
 
@@ -79,7 +79,7 @@ This repository contains an assignment project developed under the [Patika.dev][
 4. Make sure your environment has a Docker installation too.
 5. Run the scripts with the aliases configured or manually from the directories that are stated [**below**](#open_file_folder-directories).
 
-### :wrench: **Usage**
+### :wrench: **Usage** [🔝](#open_book-table-of-contents)
 
 - Built-in alias is `sailboat` You may use it if you executed `bootstrap.sh` first.
 - Optionally, you may call the scripts from any directory with an acceptable arguments that are stated below.
@@ -102,7 +102,7 @@ OPTIONS:                 ARGUMENTS:                DESCRIPTION:                 
 -h | --help                                        Shows this help message.
 ```
 
-### :computer: **Technologies**
+### :computer: **Technologies** [🔝](#open_book-table-of-contents)
 
 > - Linux
 > - Bash Scripting
@@ -110,7 +110,7 @@ OPTIONS:                 ARGUMENTS:                DESCRIPTION:                 
 > - Oracle VM VirtualBox
 > - Vagrant by HashiCorp
 
-### :open_file_folder: **Directories**
+### :open_file_folder: **Directories** [🔝](#open_book-table-of-contents)
 
 ```
 Scripts             : /opt/scripts
@@ -118,7 +118,7 @@ Configurations      : /opt/scripts/configs
 Sample Project      : /opt/projects/python
 ```
 
-### :floppy_disk: **Submitted Assignment**
+### :floppy_disk: **Submitted Assignment** [🔝](#open_book-table-of-contents)
 
 _You may check out the submitted version of this project [here][@og-repo]._
 
